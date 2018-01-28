@@ -1,0 +1,12 @@
+[
+  "http://mirrors.sonic.net/ubuntu/pool/main/g/gccgo-4.9/gcc-4.9-base_4.9.3-0ubuntu4_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/e/eglibc/libc-dev-bin_2.19-0ubuntu6.14_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/e/eglibc/libc6_2.19-0ubuntu6.14_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/e/eglibc/libc6-dev_2.19-0ubuntu6.14_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/g/gccgo-4.9/libgcc1_4.9.3-0ubuntu4_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/libp/libpng/libpng12-0_1.2.50-1ubuntu2.14.04.2_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/libp/libpng/libpng12-dev_1.2.50-1ubuntu2.14.04.2_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/l/linux/linux-libc-dev_3.13.0-141.190_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/z/zlib/zlib1g_1.2.8.dfsg-1ubuntu1_amd64.deb", 
+  "http://mirrors.sonic.net/ubuntu/pool/main/z/zlib/zlib1g-dev_1.2.8.dfsg-1ubuntu1_amd64.deb"
+]

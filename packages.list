@@ -1,0 +1,9 @@
+libc-dev-bin
+libc6
+libc6-dev
+libgcc1
+libpng12-0
+libpng12-dev
+linux-libc-dev
+zlib1g
+zlib1g-dev

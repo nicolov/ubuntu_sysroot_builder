@@ -1,0 +1,6 @@
+*.tar.gz
+*.tar.gz
+*.pickle
+example/example
+/debs
+/root
